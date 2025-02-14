@@ -53,6 +53,7 @@ The screenshot below shows that the news summary displayed about the query enter
 
 ## Acknowledgement:
 
+I would like to express my sincere gratitude to Ms. Twinkle Baid for her invaluable guidance, support, and mentorship throughout this project. Her expertise, encouragement, and constructive feedback have played a crucial role in shaping the direction of this work.
 
 
 
